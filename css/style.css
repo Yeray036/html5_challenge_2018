@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
+#navbar {
+    margin-bottom: 30px;
+}
+#imagesHome {
+    margin-top: 30px;
+}
